@@ -6,11 +6,6 @@ online presence together with a simple set of tools and services. Built as the
 final project for the Web Programming course at Biruni University.
 
 
-ℹ️ Replace the placeholders marked [...] with your own details
-(live demo link, screenshots, teammates, and a backend section if the project has one).
-
-
-
 ✨ Features
 
 
@@ -41,20 +36,6 @@ KID/
 ├── contact.html       # Contact
 ├── login.html         # Login
 └── images/            # Logo and assets
-
-🚀 Getting Started
-
-
-Clone the repository:
-
-
-bash   git clone https://github.com/[owner]/[repo].git
-
-
-Open index.html in your browser — or use the Live Server extension in
-VS Code for automatic reload while editing.
-
-
 
 👥 Team
 
